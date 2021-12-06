@@ -16,15 +16,18 @@ Showcasing popular React Hooks in function components such as useState, useEffec
 - npm start
 - visit `http://localhost:3000`
 
-###Add existing project (recipe-hubb) to GitHub
+### Add existing project (recipe-hubb) to GitHub
+
 GitHub - create react-hooks-introduction project on without readme.md
-###Locally
-- git status  
-- git init  
+
+### Locally
+
+- git status
+- git init
 - git add README.md
 - git commit -m "first commit"
 - git branch –M main
 - git remote add origin https://github.com/the-road-to-learn-react/react-hooks-introduction.git
 - git push -u origin main
-- 
+
 branch 'main' set up to track remote branch 'main' from 'origin'.
