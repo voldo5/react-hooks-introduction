@@ -20,7 +20,7 @@ Showcasing popular React Hooks in function components such as useState, useEffec
 
 GitHub - create react-hooks-introduction project on without readme.md
 
-### Locally
+### Locally (on your computer)
 
 - git status
 - git init
